@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://MatchX-s-workspace-c27c8j.us-east-1.xata.sh/db/matchx-db0",
+  "codegen": {
+    "output": "src/lib/xata.ts"
+  }
+}

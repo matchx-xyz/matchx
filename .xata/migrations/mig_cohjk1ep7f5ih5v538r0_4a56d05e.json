@@ -1,0 +1,16 @@
+{
+  "id": "mig_cohjk1ep7f5ih5v538r0",
+  "parentID": "mig_cohjjt9i8ag8nohmftsg",
+  "checksum": "1:4a56d05ec7dbe300fe9b666c91ffd80b87a6d596c72f07abe6f6a80e34d21a89",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "fbio",
+          "type": "text"
+        },
+        "table": "User"
+      }
+    }
+  ]
+}

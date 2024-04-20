@@ -1,0 +1,18 @@
+{
+  "id": "mig_cohjj6up7f5ih5v538o0",
+  "parentID": "mig_cohjibmp7f5ih5v538n0",
+  "checksum": "1:a49a7898fde3b75ad69c99f410e53aa42681a5d957b3d21f0b463740497536ab",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "step",
+          "type": "string",
+          "notNull": true,
+          "defaultValue": "F_MATCH"
+        },
+        "table": "User"
+      }
+    }
+  ]
+}

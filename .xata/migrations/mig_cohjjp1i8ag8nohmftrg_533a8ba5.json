@@ -1,0 +1,17 @@
+{
+  "id": "mig_cohjjp1i8ag8nohmftrg",
+  "parentID": "mig_cohjjgep7f5ih5v538p0",
+  "checksum": "1:533a8ba5251285c10dd8f85bed22d70ce16df971a4e937e6cd2d96e69f4b4458",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "fdisplayName",
+          "type": "string",
+          "defaultValue": ""
+        },
+        "table": "User"
+      }
+    }
+  ]
+}

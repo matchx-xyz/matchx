@@ -1,0 +1,16 @@
+{
+  "id": "mig_cohjkgep7f5ih5v538v0",
+  "parentID": "mig_cohjkdep7f5ih5v538u0",
+  "checksum": "1:1bab46184eda3244600af41af9e339eeb079a5e5a95f13839ea19fb082e478e0",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "xdisplayName",
+          "type": "string"
+        },
+        "table": "User"
+      }
+    }
+  ]
+}

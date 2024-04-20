@@ -1,0 +1,16 @@
+{
+  "id": "mig_cohjk6mp7f5ih5v538s0",
+  "parentID": "mig_cohjk1ep7f5ih5v538r0",
+  "checksum": "1:ac34168a5fbb2887b545616cbe7e645ba844c76022291f1152ca9dab1baf4e95",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "fpicture",
+          "type": "string"
+        },
+        "table": "User"
+      }
+    }
+  ]
+}

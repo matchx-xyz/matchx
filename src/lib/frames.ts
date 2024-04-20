@@ -1,6 +1,6 @@
 import { FrameMetadataType } from "@coinbase/onchainkit"
 
-export const rootPostCastUrl = ''
+export const rootPostCastUrl = 'https://warpcast.com/matchx/0x1e1c00ce'
 
 export const homeFrame: FrameMetadataType = {
     buttons: [

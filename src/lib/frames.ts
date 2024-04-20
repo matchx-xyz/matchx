@@ -27,7 +27,7 @@ export const matchF = (id: string): FrameMetadataType => ({
     buttons: [
         {
             action: 'post',
-            label: 'Next 👉'
+            label: 'Update Farcaster Bio, Next 👉'
         }
     ],
     image: `https://${process.env.WEBSITE_URL}/api/frame/image?type=f&id=${id}&timestamp=${new Date().getTime()}`,
@@ -38,7 +38,7 @@ export const matchX = (id: string): FrameMetadataType => ({
     buttons: [
         {
             action: 'post',
-            label: 'Next 👉'
+            label: 'Update X Bio, Next 👉'
         }
     ],
     image: `https://${process.env.WEBSITE_URL}/api/frame/image?type=x&id=${id}&timestamp=${new Date().getTime()}`,
@@ -49,7 +49,7 @@ export const reAction = (id: string): FrameMetadataType => ({
     buttons: [
         {
             action: 'post',
-            label: 'recast + like, 👉'
+            label: 'Recast + Like, 👉'
         }
     ],
     image: `https://${process.env.WEBSITE_URL}/api/frame/image?type=x&id=${id}&timestamp=${new Date().getTime()}`,

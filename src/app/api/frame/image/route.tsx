@@ -44,7 +44,7 @@ export async function GET(req: Request) {
                     avatar={avatarData}
                     username={user.fname || ''}
                     displayName={user.fdisplayName || ''}
-                    tip="X @Username"
+                    tip="X @TwitterUsername"
                     tipColor={matchFTipColor}
                     bio={bio}
                     bottomText={matchFBottomText} />
